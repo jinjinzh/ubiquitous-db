@@ -1,2 +1,2 @@
-# ubiquitous-db
+# ubiquitous-p
 ke-jiban
